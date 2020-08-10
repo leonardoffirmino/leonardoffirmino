@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**leonardoffirmino/leonardoffirmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Leonardo Ferreira Firmino
 
-Here are some ideas to get you started:
+## Olá pessoal :stuck_out_tongue_winking_eye:
+A cada dia em busca de aprendizados novos.
+Sou Analista de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Estou trabalhando na **Gobi Consulting**
+ 
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, UiPath 
+ <br/> 💬  &nbsp; Sobre mim: a cada dia em busca de conteúdos novos e sempre me desafiando 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-099b4b148/)](https://www.linkedin.com/in/leonardo-ferreira-099b4b148/) 
+| 
