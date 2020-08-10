@@ -4,7 +4,7 @@
 
 ## Olá pessoal :stuck_out_tongue_winking_eye:
 A cada dia em busca de aprendizados novos.
-Sou Analista de Sistemas
+<br/>Sou Analista de Sistemas
 
  Estou trabalhando na **Gobi Consulting**
  
