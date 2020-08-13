@@ -2,7 +2,7 @@
 
 # Leonardo Ferreira Firmino
 
-## Olá pessoal :stuck_out_tongue_winking_eye:
+## Olá pessoal
 A cada dia em busca de aprendizados novos.
 <br/>Sou Analista de Sistemas
 
