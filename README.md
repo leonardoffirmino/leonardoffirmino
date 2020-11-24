@@ -6,7 +6,7 @@
 A cada dia em busca de aprendizados novos.
 <br/>Sou Analista de Sistemas
 
- Estou trabalhando na **Gobi Consulting**
+
  
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, UiPath 
  <br/> 💬  &nbsp; Sobre mim: a cada dia em busca de conteúdos novos e sempre me desafiando 
