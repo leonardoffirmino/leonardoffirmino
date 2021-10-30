@@ -31,7 +31,7 @@
  ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img width="440em" src="https://github-readme-stats.vercel.app/api?username=leonardoffirmino&show_icons=true&theme=vision-friendly-dark" alt="leonardo stats"/>
-<img width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoffirmino&layout=compact&theme=vision-friendly-dark" alt="leonardo most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=leonardoffirmino&show_icons=true&theme=vision-friendly-dark" alt="leonardo stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoffirmino&layout=compact&theme=vision-friendly-dark" alt="leonardo most languages"/>
 </p>
 
