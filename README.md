@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🤖 Desenvolvimento de soluções RPA com **UiPath**  <br>- 🐍 Criação de automações e integrações com **Python**  <br>- 🔗 Trabalhos com **APIs, Banco de Dados e IDP**  <br>- ☁️ Interesse em automações em **AI aplicada a RPA**<br>
+- 🤖 Desenvolvimento de soluções RPA com **UiPath**  <br>
+- 🐍 Criação de automações e integrações com **Python**  <br>
+- 🔗 Trabalhos com **APIs, Banco de Dados e IDP**  <br>
+- ☁️ Interesse em automações em **AI aplicada a RPA**<br>
 
 
 ## 🌐 Socials:
