@@ -12,11 +12,13 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=leonardoffirmino&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=leonardoffirmino&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoffirmino&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardoffirmino&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=leonardoffirmino&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoffirmino&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150"/>
+</div>
 
