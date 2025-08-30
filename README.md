@@ -1,41 +1,22 @@
-![github-header-image](https://user-images.githubusercontent.com/49701114/177018438-ba3d8592-156a-4cb0-8de1-9c0658d099b9.png)
+# 💫 About Me:
+- 🤖 Desenvolvimento de soluções RPA com **UiPath**  <br>- 🐍 Criação de automações e integrações com **Python**  <br>- 🔗 Trabalhos com **APIs, Banco de Dados e IDP**  <br>- ☁️ Interesse em automações em **AI aplicada a RPA**<br>
 
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-ferreira-firmino-099b4b148) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 
 
-- 🔥  Analista de sistemas & Com foco em Automações de processos em RPA & Backend (Node.js)<br><br>
-- 👨‍💻 Atualmente trabalho na empresa [Gobi](https://gobi.consulting/)<br><br>
-- 💡  Aproveitando a jornada do aprendizado por etapas<br><br>
-- 🤓  Estudando Node.js juntamente com TypeScript<br><br>
-- 😉 Contato: [![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-099b4b148/)](https://www.linkedin.com/in/leonardo-ferreira-099b4b148/)</p>
-
-###
-
-<h2 align="left">Minha Stack & Estudos</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-</div>
-
-###
-
-<h2 align="left">⚙ GitHub Analytics</h2>
-
-###
-
+# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=leonardoffirmino" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&username=leonardoffirmino" height="150" alt="languages graph"  />
+![](https://github-readme-stats.vercel.app/api?username=leonardoffirmino&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=leonardoffirmino&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoffirmino&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
+
